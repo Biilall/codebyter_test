@@ -1,0 +1,9 @@
+torch
+torchvision
+onnx
+onnxruntime
+numpy
+Pillow
+requests
+cerebrium
+numpy
